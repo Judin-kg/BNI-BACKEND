@@ -1,0 +1,352 @@
+[
+    {
+        "name": "ABBIN SIMON",
+        "chapter": "BNI CRYSTAL",
+        "location": "WAYANAD",
+        "category": "Retail > Wood Merchants",
+        "company": "SIMRON WOODS"
+    },
+    {
+        "name": "ABDUL JAMSHEER",
+        "chapter": "BNI CRYSTAL",
+        "location": "WAYANAD",
+        "category": "Construction > Plumbing",
+        "company": "T P TILES CENTRE"
+    },
+    {
+        "name": "ABDUL SALEEM",
+        "chapter": "BNI ALLIANCE",
+        "location": "WAYANAD",
+        "category": "Retail > Retail (Other)",
+        "company": "SURABHI ELECTRICALS AND HARDWARE"
+    },
+    {
+        "name": "ABHIJITH BABY",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "Wayanad",
+        "category": "Finance & Insurance > Wealth Management",
+        "company": "Finapla Wealth Solutions"
+    },
+    {
+        "name": "ABIJITH JOHN",
+        "chapter": "BNI CRYSTAL",
+        "location": "WAYANAD",
+        "category": "Construction > Windows & Doors",
+        "company": "NEW INDIA"
+    },
+    {
+        "name": "AFSAL SAID MUBARAK",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "",
+        "category": "Architecture & Engineering > Architect",
+        "company": "MAJOC DESIGN STUDIO"
+    },
+    {
+        "name": "AJAY THOMAS",
+        "chapter": "BNI CRYSTAL",
+        "location": "Wayanad",
+        "category": "Construction > Solar",
+        "company": "VATSAA ENERGY"
+    },
+    {
+        "name": "ARJUN RAJ",
+        "chapter": "BNI ALLIANCE",
+        "location": "WAYANAD",
+        "category": "Construction > Builder/General Contractor",
+        "company": "Silpasree Engineers and Constructions"
+    },
+    {
+        "name": "ASHIQ K",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "WAYANAD",
+        "category": "Telecommunications > Mobile Telecommunications",
+        "company": "IMAGE MOBILES & COMPUTERS"
+    },
+    {
+        "name": "BINOY PM",
+        "chapter": "BNI CRYSTAL",
+        "location": "KANNUR",
+        "category": "Food & Beverage > Caterer",
+        "company": "METRO CATERING SERVICE"
+    },
+    {
+        "name": "DEEPAK SUNNY",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "WAYANAD",
+        "category": "Retail > Paint Retail",
+        "company": "Rainbow Colour House"
+    },
+    {
+        "name": "Dr. ANZI MUHAMMED",
+        "chapter": "BNI CRYSTAL",
+        "location": "Wayanad",
+        "category": "Health & Wellness > Health & Wellness (Other)",
+        "company": "Anzee Ayurveda Health Care Center"
+    },
+    {
+        "name": "Dr. Abhishek Joshi",
+        "chapter": "BNI ALLIANCE",
+        "location": "Wayanad",
+        "category": "Health & Wellness > Doctor/Physician",
+        "company": "Ayurveda Loka"
+    },
+    {
+        "name": "Dr. GEORGE ABRAHAM",
+        "chapter": "BNI ALLIANCE",
+        "location": "WAYANAD",
+        "category": "Health & Wellness > Dentist",
+        "company": "Dr George's Dental Care"
+    },
+    {
+        "name": "Dr. MUHAMMED IRSHAD KP",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "WAYANAD",
+        "category": "Health & Wellness > Dentist",
+        "company": "Mint Specialty Dental Clinic"
+    },
+    {
+        "name": "HARILAL VR",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "WAYANAD",
+        "category": "Architecture & Engineering > Garden and landscape architect",
+        "company": "VRUKSHA NURSERY"
+    },
+    {
+        "name": "ICY VARGHESE",
+        "chapter": "BNI ALLIANCE",
+        "location": "WAYANAD",
+        "category": "Architecture & Engineering > Landscape Services",
+        "company": "BAI'S GARDEN"
+    },
+    {
+        "name": "JAPHIN P MATHEW",
+        "chapter": "BNI CRYSTAL",
+        "location": "WAYANAD",
+        "category": "Construction > Construction (Other)",
+        "company": "SBC Interlocks and Stones"
+    },
+    {
+        "name": "JASEER EP",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "Erumad",
+        "category": "Construction > Waterproofing-Weatherproofing",
+        "company": "Goodwill Constructive Solutions"
+    },
+    {
+        "name": "JOJIMON MA",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "WAYANAD",
+        "category": "Construction > Interior Design - Residential",
+        "company": "Habiqqo Architecture"
+    },
+    {
+        "name": "KRISHNAN M",
+        "chapter": "BNI ALLIANCE",
+        "location": "WAYANAD",
+        "category": "Finance & Insurance > Finance & Insurance (Other)",
+        "company": "LIC"
+    },
+    {
+        "name": "MAHESH KR",
+        "chapter": "BNI ALLIANCE",
+        "location": "WAYANAD",
+        "category": "Construction > Electrical Contractor",
+        "company": "ELECTRO ELECTRIC SERVICES"
+    },
+    {
+        "name": "MANOJ MJ",
+        "chapter": "BNI CRYSTAL",
+        "location": "WAYANAD",
+        "category": "Manufacturing > Metal Fabrication",
+        "company": "M J Engineering"
+    },
+    {
+        "name": "MUHAMMAD ASLAM PM",
+        "chapter": "BNI CRYSTAL",
+        "location": "WAYANAD",
+        "category": "Construction > Interior Design - Residential",
+        "company": "NEYSA CONCEPTS"
+    },
+    {
+        "name": "MUHAMMAD NIYAS",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "CALICUT",
+        "category": "Food & Beverage > Food & Beverage (Other)",
+        "company": "ANJ ENTERPRISES"
+    },
+    {
+        "name": "MUHAMMED AFEEF",
+        "chapter": "BNI ALLIANCE",
+        "location": "WAYANAD",
+        "category": "Computer & Programming > Computer Retailer",
+        "company": "IMAGE MOBILES AND COMPUTERS"
+    },
+    {
+        "name": "MUHAMMED ASHRAF ALI",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "WAYANAD",
+        "category": "Manufacturing > Manufacturing (Other)",
+        "company": "PS FRAMES"
+    },
+    {
+        "name": "MUHAMMED YASIN",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "WAYANAD",
+        "category": "Construction > Construction (Other)",
+        "company": "AIN Granite"
+    },
+    {
+        "name": "MUNEER VC",
+        "chapter": "BNI CRYSTAL",
+        "location": "WAYANAD",
+        "category": "Manufacturing > Furniture manufacture",
+        "company": "HITECH FURNITURE"
+    },
+    {
+        "name": "PRADEEP KUMAR",
+        "chapter": "BNI ALLIANCE",
+        "location": "WAYANAD",
+        "category": "Manufacturing > Metal Fabrication",
+        "company": "ADHI Engineering Solutions"
+    },
+    {
+        "name": "PRADEESH CHACKO",
+        "chapter": "BNI ALLIANCE",
+        "location": "WAYANAD",
+        "category": "Real Estate Services > Real Estate Services (Other)",
+        "company": "VIKAS CAPITAL"
+    },
+    {
+        "name": "RANJITH MR",
+        "chapter": "BNI CRYSTAL",
+        "location": "WAYANAD",
+        "category": "Travel > Travel Agent",
+        "company": "GLOBAL SAFARI HOLIDAYS"
+    },
+    {
+        "name": "REBIN K",
+        "chapter": "BNI CRYSTAL",
+        "location": "WAYANAD",
+        "category": "Construction > Waterproofing-Weatherproofing",
+        "company": "BUILDICO WATERPROOFING"
+    },
+    {
+        "name": "RENIL KV",
+        "chapter": "BNI CRYSTAL",
+        "location": "WAYANAD",
+        "category": "Construction > Electrical Contractor",
+        "company": "ROSE ELECTRICALS"
+    },
+    {
+        "name": "SAJEESH RAJAPPAN",
+        "chapter": "BNI ALLIANCE",
+        "location": "WAYANAD",
+        "category": "Manufacturing > Manufacturing (Other)",
+        "company": "SULTHAN HARDWARE"
+    },
+    {
+        "name": "SAJI PAUL",
+        "chapter": "BNI ALLIANCE",
+        "location": "WAYANAD",
+        "category": "Manufacturing > Food Products",
+        "company": "Paul’s Savories"
+    },
+    {
+        "name": "SAVIOUR MG",
+        "chapter": "BNI CRYSTAL",
+        "location": "WAYANAD",
+        "category": "Finance & Insurance > General Insurance",
+        "company": "UNITED INDIA INSURANCE CO LTD."
+    },
+    {
+        "name": "SEMEER NM",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "WAYANAD",
+        "category": "Retail > Tiles",
+        "company": "WAYANAD TILE DEPOT"
+    },
+    {
+        "name": "SHAHEER ALI MA",
+        "chapter": "BNI ALLIANCE",
+        "location": "WAYANAD",
+        "category": "Advertising & Marketing > Home Automation",
+        "company": "eGlu Smart Home"
+    },
+    {
+        "name": "SHAMIN K",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "WAYANAD",
+        "category": "Legal & Accounting > Accounting Services",
+        "company": "B & B ASSOCIATES"
+    },
+    {
+        "name": "SHEEN JOHNS",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "WAYANAD",
+        "category": "Retail > Retail (Other)",
+        "company": "Cannanore Stationery& Footwear"
+    },
+    {
+        "name": "SHYAM KS",
+        "chapter": "BNI CRYSTAL",
+        "location": "WAYANAD",
+        "category": "Health & Wellness > Health & Wellness Services",
+        "company": "MDC LABORATORY"
+    },
+    {
+        "name": "SHYJU PK",
+        "chapter": "BNI CRYSTAL",
+        "location": "WAYANAD",
+        "category": "Construction > Cement/Concrete",
+        "company": "BASIL STEEL AND CEMENT"
+    },
+    {
+        "name": "SUDHIN VM",
+        "chapter": "BNI CRYSTAL",
+        "location": "WAYANAD",
+        "category": "Agriculture > Agriculture (Other)",
+        "company": "INDOOR AGRI TECHNOLOGIES PRIVATE LIMITED"
+    },
+    {
+        "name": "TOBIN JOSHY",
+        "chapter": "BNI CRYSTAL",
+        "location": "WAYANAD",
+        "category": "Architecture & Engineering > Architecture & Engineering (Other)",
+        "company": "STUPAH ARCHITECTS"
+    },
+    {
+        "name": "USMAN P.H",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "",
+        "category": "Construction > Construction (Other)",
+        "company": "LOYAL TECH PAINTING WORK"
+    },
+    {
+        "name": "VIJAY KUMAR",
+        "chapter": "BNI ALLIANCE",
+        "location": "WAYANAD",
+        "category": "Retail > Fine Jewelry",
+        "company": "BHIMA JEWELLERS"
+    },
+    {
+        "name": "VINEETH K V",
+        "chapter": "BNI BILLIONAIRES",
+        "location": "Wayanad",
+        "category": "Travel > Travel (Other)",
+        "company": "Royal Safari Holidays Pvt Ltd"
+    },
+    {
+        "name": "VISHNU SREERAJ",
+        "chapter": "BNI ALLIANCE",
+        "location": "WAYANAD",
+        "category": "Advertising & Marketing > Digital Marketing",
+        "company": "Divisorweb Internet Solutions"
+    },
+    {
+        "name": "YOONUS VT",
+        "chapter": "BNI ALLIANCE",
+        "location": "WAYANAD",
+        "category": "Architecture & Engineering > Architecture & Engineering (Other)",
+        "company": "MERAKITARC"
+    }
+]
